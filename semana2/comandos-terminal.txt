@@ -1,0 +1,12 @@
+Comandos utilizados en la actividad:
+
+1. pwd (para ver mi ubicación)
+2. ls (para ver carpetas existentes)
+3. mkdir semana2 (para crear la carpeta de la actividad)
+4. cd semana2 (para entrar en la carpeta)
+5. touch preguntas-semana2.txt (para crear el archivo de preguntas)
+6. touch comandos-terminal.txt (para crear este archivo)
+7. touch reflexion-semana2.txt (para crear el archivo de reflexión)
+8. git add . (para preparar los archivos)
+9. git commit -m "Actividad semana 2" (para registrar los cambios)
+10. git push (para subir al repositorio)
