@@ -1,0 +1,5 @@
+El comando whoami muestra el nombre del usuario que está utilizando el sistema.
+
+El comando uname -a (o su equivalente en Windows) muestra información sobre el sistema operativo, versión y arquitectura del equipo.
+
+Conocer esta información es útil para administrar servidores, verificar configuraciones y solucionar problemas técnicos.
