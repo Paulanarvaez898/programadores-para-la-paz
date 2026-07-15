@@ -1,0 +1,6 @@
+1. Un ciudadano crea una nueva causa comunitaria.
+2. La causa queda registrada en la base de datos del sistema.
+3. Otros ciudadanos pueden visualizar la causa y apoyarla.
+4. El sistema registra y cuenta automáticamente los apoyos recibidos.
+5. Cuando la causa alcanza determinado número de apoyos, se genera un documento PDF con la petición formal.
+6. El sistema puede enviar una notificación automática mediante Telegram para informar sobre la nueva causa o el nuevo apoyo recibido.
